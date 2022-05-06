@@ -1,0 +1,9 @@
+Package: ubuntu-ce-parental-controls
+Version: 0.0.1
+Section: web
+Priority: optional
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: malcontent, malcontent-gui
+Description: Parental Controls

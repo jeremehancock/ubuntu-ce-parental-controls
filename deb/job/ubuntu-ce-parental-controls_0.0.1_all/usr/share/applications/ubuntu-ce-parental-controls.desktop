@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Parental Controls
+Comment=Parental Controls
+Exec=malcontent-control
+Icon=ubuntu-ce-parental-controls.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Name[en_US]=Parental Controls
