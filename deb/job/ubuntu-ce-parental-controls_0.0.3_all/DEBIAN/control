@@ -1,5 +1,5 @@
 Package: ubuntu-ce-parental-controls
-Version: 0.0.1
+Version: 0.0.3
 Section: web
 Priority: optional
 Architecture: all
